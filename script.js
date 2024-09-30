@@ -62,7 +62,7 @@ function navbarAnimation() {
     },
   });
 }
-navbarAnimation()
+navbarAnimation();
 
 function videoconAnimation() {
   var videocon = document.querySelector("#video-container");
